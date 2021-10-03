@@ -16,8 +16,8 @@ Un developpeur HTML CSS
 
 Et un developpeur Python
 ```Python
-print('Choco8exe ou Choco comme tu prefere')
-print('Je suis un petit developpeur Python qui chaque jour s n\'ameliore')
+print("Choco8exe ou Choco comme tu prefere")
+print("Je suis un petit developpeur Python qui chaque jour s'ameliore")
 ```
 
 
