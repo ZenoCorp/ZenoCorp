@@ -3,7 +3,7 @@ Zeno est un petit groupe de developpeur qui apprend chaque
 jour de plus en plus d'information.
 
 # Nos Membres 
-Parmis Zeno nous avons un developpeur HTML CSS 
+Parmis Zeno nous avons : 
 
 Un developpeur HTML CSS
 ```html
